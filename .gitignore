@@ -1,0 +1,11 @@
+*.pyc
+*.egg-info/
+build/
+docs/_build/
+tests/sqlite_database
+tests/.coverage
+tests/htmlcov/
+dist/
+.tox/
+.cache/
+.coverage
